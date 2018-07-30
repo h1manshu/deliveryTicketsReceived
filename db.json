@@ -1,336 +1,334 @@
 {
-  "deliveryTicketsReceived" : [
-  {
-    "docType": "receipt",
-    "dtNumber": "16983-9",
-    "projectId": 2812,
-    "projectNumber": "237995-OK",
-    "receivedDate": "Sun Sep 20 2015 10:04:41 GMT+0000 (UTC)",
-    "items": [
-      {
-        "lineNumber": 0,
-        "itemNumber": "1285YTF",
-        "qtyAccepted": "3543.8",
-        "qtyRejected": "88.1",
-        "rejectReason": "",
-        "lotNumber": 2
-      },
-      {
-        "lineNumber": 1,
-        "itemNumber": "2353YTF",
-        "qtyAccepted": "319.6",
-        "qtyRejected": "333.95",
-        "rejectReason": "",
-        "lotNumber": 1
-      },
-      {
-        "lineNumber": 2,
-        "itemNumber": "2518YTF",
-        "qtyAccepted": "3537.14",
-        "qtyRejected": "3811.85",
-        "rejectReason": "",
-        "lotNumber": 2
-      }
-    ]
-  },
-  {
-    "docType": "receipt",
-    "dtNumber": "24973-2",
-    "projectId": 2258,
-    "projectNumber": "267275-OK",
-    "receivedDate": "Fri Mar 03 2006 07:55:07 GMT+0000 (UTC)",
-    "items": [
-      {
-        "lineNumber": 0,
-        "itemNumber": "3035YTF",
-        "qtyAccepted": "633.07",
-        "qtyRejected": "1915.94",
-        "rejectReason": "",
-        "lotNumber": 2
-      },
-      {
-        "lineNumber": 1,
-        "itemNumber": "3032YTF",
-        "qtyAccepted": "2903.02",
-        "qtyRejected": "731.38",
-        "rejectReason": "",
-        "lotNumber": 2
-      },
-      {
-        "lineNumber": 2,
-        "itemNumber": "1201YTF",
-        "qtyAccepted": "2670.76",
-        "qtyRejected": "2915.07",
-        "rejectReason": "",
-        "lotNumber": 2
-      }
-    ]
-  },
-  {
-    "docType": "receipt",
-    "dtNumber": "17929-7",
-    "projectId": 1235,
-    "projectNumber": "647094-PERMIAN",
-    "receivedDate": "Sat Jan 31 1981 09:09:00 GMT+0000 (UTC)",
-    "items": [
-      {
-        "lineNumber": 0,
-        "itemNumber": "3081YTF",
-        "qtyAccepted": "404.76",
-        "qtyRejected": "1747.04",
-        "rejectReason": "",
-        "lotNumber": 1
-      },
-      {
-        "lineNumber": 1,
-        "itemNumber": "3287YTF",
-        "qtyAccepted": "1146.65",
-        "qtyRejected": "2580.07",
-        "rejectReason": "",
-        "lotNumber": 2
-      },
-      {
-        "lineNumber": 2,
-        "itemNumber": "1189YTF",
-        "qtyAccepted": "2544.09",
-        "qtyRejected": "1356.34",
-        "rejectReason": "",
-        "lotNumber": 2
-      }
-    ]
-  },
-  {
-    "docType": "receipt",
-    "dtNumber": "33480-5",
-    "projectId": 1214,
-    "projectNumber": "400052-TX",
-    "receivedDate": "Fri Mar 25 2005 01:58:23 GMT+0000 (UTC)",
-    "items": [
-      {
-        "lineNumber": 0,
-        "itemNumber": "1851YTF",
-        "qtyAccepted": "33.99",
-        "qtyRejected": "3829.41",
-        "rejectReason": "",
-        "lotNumber": 1
-      },
-      {
-        "lineNumber": 1,
-        "itemNumber": "1502YTF",
-        "qtyAccepted": "162.47",
-        "qtyRejected": "3674.71",
-        "rejectReason": "",
-        "lotNumber": 2
-      },
-      {
-        "lineNumber": 2,
-        "itemNumber": "2047YTF",
-        "qtyAccepted": "3992.8",
-        "qtyRejected": "1006.63",
-        "rejectReason": "",
-        "lotNumber": 1
-      }
-    ]
-  },
-  {
-    "docType": "receipt",
-    "dtNumber": "10061-9",
-    "projectId": 2507,
-    "projectNumber": "142722-OK",
-    "receivedDate": "Tue Jul 15 2003 03:55:56 GMT+0000 (UTC)",
-    "items": [
-      {
-        "lineNumber": 0,
-        "itemNumber": "1184YTF",
-        "qtyAccepted": "646.04",
-        "qtyRejected": "3047.83",
-        "rejectReason": "",
-        "lotNumber": 2
-      },
-      {
-        "lineNumber": 1,
-        "itemNumber": "2622YTF",
-        "qtyAccepted": "1539.89",
-        "qtyRejected": "387.83",
-        "rejectReason": "",
-        "lotNumber": 2
-      },
-      {
-        "lineNumber": 2,
-        "itemNumber": "2452YTF",
-        "qtyAccepted": "202.64",
-        "qtyRejected": "2183.67",
-        "rejectReason": "",
-        "lotNumber": 1
-      }
-    ]
-  },
-  {
-    "docType": "receipt",
-    "dtNumber": "23248-4",
-    "projectId": 1411,
-    "projectNumber": "516620-TX",
-    "receivedDate": "Tue Nov 15 1977 22:03:44 GMT+0000 (UTC)",
-    "items": [
-      {
-        "lineNumber": 0,
-        "itemNumber": "3334YTF",
-        "qtyAccepted": "3242.52",
-        "qtyRejected": "631.38",
-        "rejectReason": "",
-        "lotNumber": 2
-      },
-      {
-        "lineNumber": 1,
-        "itemNumber": "3928YTF",
-        "qtyAccepted": "1132.54",
-        "qtyRejected": "210.31",
-        "rejectReason": "",
-        "lotNumber": 1
-      },
-      {
-        "lineNumber": 2,
-        "itemNumber": "3826YTF",
-        "qtyAccepted": "2045.84",
-        "qtyRejected": "1018.67",
-        "rejectReason": "",
-        "lotNumber": 2
-      }
-    ]
-  },
-  {
-    "docType": "receipt",
-    "dtNumber": "18071-2",
-    "projectId": 1397,
-    "projectNumber": "942269-OK",
-    "receivedDate": "Mon Jun 24 1991 01:08:45 GMT+0000 (UTC)",
-    "items": [
-      {
-        "lineNumber": 0,
-        "itemNumber": "2938YTF",
-        "qtyAccepted": "2547.79",
-        "qtyRejected": "964.8",
-        "rejectReason": "",
-        "lotNumber": 2
-      },
-      {
-        "lineNumber": 1,
-        "itemNumber": "1382YTF",
-        "qtyAccepted": "2561.29",
-        "qtyRejected": "331.88",
-        "rejectReason": "",
-        "lotNumber": 2
-      },
-      {
-        "lineNumber": 2,
-        "itemNumber": "3243YTF",
-        "qtyAccepted": "2562.99",
-        "qtyRejected": "3442.21",
-        "rejectReason": "",
-        "lotNumber": 1
-      }
-    ]
-  },
-  {
-    "docType": "receipt",
-    "dtNumber": "39579-7",
-    "projectId": 3307,
-    "projectNumber": "849385-PERMIAN",
-    "receivedDate": "Mon Oct 22 2007 03:27:48 GMT+0000 (UTC)",
-    "items": [
-      {
-        "lineNumber": 0,
-        "itemNumber": "2534YTF",
-        "qtyAccepted": "956.09",
-        "qtyRejected": "1324.35",
-        "rejectReason": "",
-        "lotNumber": 1
-      },
-      {
-        "lineNumber": 1,
-        "itemNumber": "1001YTF",
-        "qtyAccepted": "1023.55",
-        "qtyRejected": "1338.39",
-        "rejectReason": "",
-        "lotNumber": 1
-      },
-      {
-        "lineNumber": 2,
-        "itemNumber": "3351YTF",
-        "qtyAccepted": "749.14",
-        "qtyRejected": "3063.46",
-        "rejectReason": "",
-        "lotNumber": 1
-      }
-    ]
-  },
-  {
-    "docType": "receipt",
-    "dtNumber": "25917-5",
-    "projectId": 1802,
-    "projectNumber": "919647-OK",
-    "receivedDate": "Sat Oct 23 1971 08:36:30 GMT+0000 (UTC)",
-    "items": [
-      {
-        "lineNumber": 0,
-        "itemNumber": "1113YTF",
-        "qtyAccepted": "3527.51",
-        "qtyRejected": "3993.73",
-        "rejectReason": "",
-        "lotNumber": 2
-      },
-      {
-        "lineNumber": 1,
-        "itemNumber": "3579YTF",
-        "qtyAccepted": "411.7",
-        "qtyRejected": "1416.54",
-        "rejectReason": "",
-        "lotNumber": 1
-      },
-      {
-        "lineNumber": 2,
-        "itemNumber": "2140YTF",
-        "qtyAccepted": "3376.45",
-        "qtyRejected": "2298.86",
-        "rejectReason": "",
-        "lotNumber": 2
-      }
-    ]
-  },
-  {
-    "docType": "receipt",
-    "dtNumber": "23341-8",
-    "projectId": 2500,
-    "projectNumber": "314099-OK",
-    "receivedDate": "Sun Jan 17 1993 02:05:42 GMT+0000 (UTC)",
-    "items": [
-      {
-        "lineNumber": 0,
-        "itemNumber": "3422YTF",
-        "qtyAccepted": "1654.44",
-        "qtyRejected": "3332.61",
-        "rejectReason": "",
-        "lotNumber": 2
-      },
-      {
-        "lineNumber": 1,
-        "itemNumber": "3043YTF",
-        "qtyAccepted": "223.79",
-        "qtyRejected": "2405.08",
-        "rejectReason": "",
-        "lotNumber": 1
-      },
-      {
-        "lineNumber": 2,
-        "itemNumber": "2010YTF",
-        "qtyAccepted": "2931.95",
-        "qtyRejected": "1014.37",
-        "rejectReason": "",
-        "lotNumber": 1
-      }
-    ]
-  }
-]
-}
-]
+	"deliveryTicketsReceived":[
+	  {
+		"docType": "receipt",
+		"dtNumber": "16983-9",
+		"projectId": 2812,
+		"projectNumber": "237995-OK",
+		"receivedDate": "Sun Sep 20 2015 10:04:41 GMT+0000 (UTC)",
+		"items": [
+		  {
+			"lineNumber": 0,
+			"itemNumber": "1285YTF",
+			"qtyAccepted": "3543.8",
+			"qtyRejected": "88.1",
+			"rejectReason": "",
+			"lotNumber": 2
+		  },
+		  {
+			"lineNumber": 1,
+			"itemNumber": "2353YTF",
+			"qtyAccepted": "319.6",
+			"qtyRejected": "333.95",
+			"rejectReason": "",
+			"lotNumber": 1
+		  },
+		  {
+			"lineNumber": 2,
+			"itemNumber": "2518YTF",
+			"qtyAccepted": "3537.14",
+			"qtyRejected": "3811.85",
+			"rejectReason": "",
+			"lotNumber": 2
+		  }
+		]
+	  },
+	  {
+		"docType": "receipt",
+		"dtNumber": "24973-2",
+		"projectId": 2258,
+		"projectNumber": "267275-OK",
+		"receivedDate": "Fri Mar 03 2006 07:55:07 GMT+0000 (UTC)",
+		"items": [
+		  {
+			"lineNumber": 0,
+			"itemNumber": "3035YTF",
+			"qtyAccepted": "633.07",
+			"qtyRejected": "1915.94",
+			"rejectReason": "",
+			"lotNumber": 2
+		  },
+		  {
+			"lineNumber": 1,
+			"itemNumber": "3032YTF",
+			"qtyAccepted": "2903.02",
+			"qtyRejected": "731.38",
+			"rejectReason": "",
+			"lotNumber": 2
+		  },
+		  {
+			"lineNumber": 2,
+			"itemNumber": "1201YTF",
+			"qtyAccepted": "2670.76",
+			"qtyRejected": "2915.07",
+			"rejectReason": "",
+			"lotNumber": 2
+		  }
+		]
+	  },
+	  {
+		"docType": "receipt",
+		"dtNumber": "17929-7",
+		"projectId": 1235,
+		"projectNumber": "647094-PERMIAN",
+		"receivedDate": "Sat Jan 31 1981 09:09:00 GMT+0000 (UTC)",
+		"items": [
+		  {
+			"lineNumber": 0,
+			"itemNumber": "3081YTF",
+			"qtyAccepted": "404.76",
+			"qtyRejected": "1747.04",
+			"rejectReason": "",
+			"lotNumber": 1
+		  },
+		  {
+			"lineNumber": 1,
+			"itemNumber": "3287YTF",
+			"qtyAccepted": "1146.65",
+			"qtyRejected": "2580.07",
+			"rejectReason": "",
+			"lotNumber": 2
+		  },
+		  {
+			"lineNumber": 2,
+			"itemNumber": "1189YTF",
+			"qtyAccepted": "2544.09",
+			"qtyRejected": "1356.34",
+			"rejectReason": "",
+			"lotNumber": 2
+		  }
+		]
+	  },
+	  {
+		"docType": "receipt",
+		"dtNumber": "33480-5",
+		"projectId": 1214,
+		"projectNumber": "400052-TX",
+		"receivedDate": "Fri Mar 25 2005 01:58:23 GMT+0000 (UTC)",
+		"items": [
+		  {
+			"lineNumber": 0,
+			"itemNumber": "1851YTF",
+			"qtyAccepted": "33.99",
+			"qtyRejected": "3829.41",
+			"rejectReason": "",
+			"lotNumber": 1
+		  },
+		  {
+			"lineNumber": 1,
+			"itemNumber": "1502YTF",
+			"qtyAccepted": "162.47",
+			"qtyRejected": "3674.71",
+			"rejectReason": "",
+			"lotNumber": 2
+		  },
+		  {
+			"lineNumber": 2,
+			"itemNumber": "2047YTF",
+			"qtyAccepted": "3992.8",
+			"qtyRejected": "1006.63",
+			"rejectReason": "",
+			"lotNumber": 1
+		  }
+		]
+	  },
+	  {
+		"docType": "receipt",
+		"dtNumber": "10061-9",
+		"projectId": 2507,
+		"projectNumber": "142722-OK",
+		"receivedDate": "Tue Jul 15 2003 03:55:56 GMT+0000 (UTC)",
+		"items": [
+		  {
+			"lineNumber": 0,
+			"itemNumber": "1184YTF",
+			"qtyAccepted": "646.04",
+			"qtyRejected": "3047.83",
+			"rejectReason": "",
+			"lotNumber": 2
+		  },
+		  {
+			"lineNumber": 1,
+			"itemNumber": "2622YTF",
+			"qtyAccepted": "1539.89",
+			"qtyRejected": "387.83",
+			"rejectReason": "",
+			"lotNumber": 2
+		  },
+		  {
+			"lineNumber": 2,
+			"itemNumber": "2452YTF",
+			"qtyAccepted": "202.64",
+			"qtyRejected": "2183.67",
+			"rejectReason": "",
+			"lotNumber": 1
+		  }
+		]
+	  },
+	  {
+		"docType": "receipt",
+		"dtNumber": "23248-4",
+		"projectId": 1411,
+		"projectNumber": "516620-TX",
+		"receivedDate": "Tue Nov 15 1977 22:03:44 GMT+0000 (UTC)",
+		"items": [
+		  {
+			"lineNumber": 0,
+			"itemNumber": "3334YTF",
+			"qtyAccepted": "3242.52",
+			"qtyRejected": "631.38",
+			"rejectReason": "",
+			"lotNumber": 2
+		  },
+		  {
+			"lineNumber": 1,
+			"itemNumber": "3928YTF",
+			"qtyAccepted": "1132.54",
+			"qtyRejected": "210.31",
+			"rejectReason": "",
+			"lotNumber": 1
+		  },
+		  {
+			"lineNumber": 2,
+			"itemNumber": "3826YTF",
+			"qtyAccepted": "2045.84",
+			"qtyRejected": "1018.67",
+			"rejectReason": "",
+			"lotNumber": 2
+		  }
+		]
+	  },
+	  {
+		"docType": "receipt",
+		"dtNumber": "18071-2",
+		"projectId": 1397,
+		"projectNumber": "942269-OK",
+		"receivedDate": "Mon Jun 24 1991 01:08:45 GMT+0000 (UTC)",
+		"items": [
+		  {
+			"lineNumber": 0,
+			"itemNumber": "2938YTF",
+			"qtyAccepted": "2547.79",
+			"qtyRejected": "964.8",
+			"rejectReason": "",
+			"lotNumber": 2
+		  },
+		  {
+			"lineNumber": 1,
+			"itemNumber": "1382YTF",
+			"qtyAccepted": "2561.29",
+			"qtyRejected": "331.88",
+			"rejectReason": "",
+			"lotNumber": 2
+		  },
+		  {
+			"lineNumber": 2,
+			"itemNumber": "3243YTF",
+			"qtyAccepted": "2562.99",
+			"qtyRejected": "3442.21",
+			"rejectReason": "",
+			"lotNumber": 1
+		  }
+		]
+	  },
+	  {
+		"docType": "receipt",
+		"dtNumber": "39579-7",
+		"projectId": 3307,
+		"projectNumber": "849385-PERMIAN",
+		"receivedDate": "Mon Oct 22 2007 03:27:48 GMT+0000 (UTC)",
+		"items": [
+		  {
+			"lineNumber": 0,
+			"itemNumber": "2534YTF",
+			"qtyAccepted": "956.09",
+			"qtyRejected": "1324.35",
+			"rejectReason": "",
+			"lotNumber": 1
+		  },
+		  {
+			"lineNumber": 1,
+			"itemNumber": "1001YTF",
+			"qtyAccepted": "1023.55",
+			"qtyRejected": "1338.39",
+			"rejectReason": "",
+			"lotNumber": 1
+		  },
+		  {
+			"lineNumber": 2,
+			"itemNumber": "3351YTF",
+			"qtyAccepted": "749.14",
+			"qtyRejected": "3063.46",
+			"rejectReason": "",
+			"lotNumber": 1
+		  }
+		]
+	  },
+	  {
+		"docType": "receipt",
+		"dtNumber": "25917-5",
+		"projectId": 1802,
+		"projectNumber": "919647-OK",
+		"receivedDate": "Sat Oct 23 1971 08:36:30 GMT+0000 (UTC)",
+		"items": [
+		  {
+			"lineNumber": 0,
+			"itemNumber": "1113YTF",
+			"qtyAccepted": "3527.51",
+			"qtyRejected": "3993.73",
+			"rejectReason": "",
+			"lotNumber": 2
+		  },
+		  {
+			"lineNumber": 1,
+			"itemNumber": "3579YTF",
+			"qtyAccepted": "411.7",
+			"qtyRejected": "1416.54",
+			"rejectReason": "",
+			"lotNumber": 1
+		  },
+		  {
+			"lineNumber": 2,
+			"itemNumber": "2140YTF",
+			"qtyAccepted": "3376.45",
+			"qtyRejected": "2298.86",
+			"rejectReason": "",
+			"lotNumber": 2
+		  }
+		]
+	  },
+	  {
+		"docType": "receipt",
+		"dtNumber": "23341-8",
+		"projectId": 2500,
+		"projectNumber": "314099-OK",
+		"receivedDate": "Sun Jan 17 1993 02:05:42 GMT+0000 (UTC)",
+		"items": [
+		  {
+			"lineNumber": 0,
+			"itemNumber": "3422YTF",
+			"qtyAccepted": "1654.44",
+			"qtyRejected": "3332.61",
+			"rejectReason": "",
+			"lotNumber": 2
+		  },
+		  {
+			"lineNumber": 1,
+			"itemNumber": "3043YTF",
+			"qtyAccepted": "223.79",
+			"qtyRejected": "2405.08",
+			"rejectReason": "",
+			"lotNumber": 1
+		  },
+		  {
+			"lineNumber": 2,
+			"itemNumber": "2010YTF",
+			"qtyAccepted": "2931.95",
+			"qtyRejected": "1014.37",
+			"rejectReason": "",
+			"lotNumber": 1
+		  }
+		]
+	  }
+	]
 }
